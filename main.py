@@ -20,3 +20,12 @@ for i in range(1, 11):
 for i in range(1, 11):
     if i % 2 != 0:
         print(i)
+trading_bot_name = "TradeMaster3000"
+print(f"Welcome to {trading_bot_name}!")
+print(my_list[4])
+print(my_list[4])  # Output: 5  # Output: 1
+print(my_list[-1])  # Output: 10  # Output: 10
+print(my_list[4])  # Output: 1  # Output: 10
+print(my_list[-1])  # Output: 1 # Output: 1  # Output: 10  # Output: 10
+print(my_list[0])  # Output: 1  # Output: 1
+print(my_list[0])  # Output: 1  # Output: 1
