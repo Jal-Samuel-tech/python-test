@@ -13,3 +13,9 @@ if name:
     print("Hello, " + name + "!")   
 else:
     print("You didn't enter a name.")
+
+number=int(input("Enter a number: "))   
+if number % 2 == 0:      
+    print("The number is even.")    
+else:
+    print("The number is odd.")
