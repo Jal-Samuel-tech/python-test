@@ -19,3 +19,8 @@ if number % 2 == 0:
     print("The number is even.")    
 else:
     print("The number is odd.")
+
+first = input("Enter a word: ")
+second = input("Enter another word: ")
+words = first + " " + second + " "
+print(words * 1000)
